@@ -80,12 +80,12 @@ msgstr "Installieren..."
 
 #: ../src/paprefs.glade.h:11
 msgid "Make discoverable Apple A_irTunes sound devices available locally"
-msgstr "Apple A_irTunes im lokalen Netzwerk auffindbar machen"
+msgstr "Im Netzwerk auffindbare Apple A_irTunes-Geräte lokal verfügbar machen"
 
 #: ../src/paprefs.glade.h:12
 msgid "Make discoverable _PulseAudio network sound devices available locally"
 msgstr ""
-"_PulseAudio Netzwerk-Audio-Geräte im lokalen Netzwerk auffindbar machen"
+"_Im Netzwerk auffindbare PulseAudio Netzwerk-Audio-Geräte lokal verfügbar machen"
 
 #: ../src/paprefs.glade.h:13
 msgid "Make local sound devices available as DLNA/_UPnP Media Server"
